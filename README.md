@@ -12,3 +12,9 @@ Dependencies :
   body-parser -- npm install body-parser --save
 
 body-parser -- is used for parsing data to JSON object
+
+install one more package globally nodemon
+
+npm install -g nodemon
+
+run command nodemon 'filename.js'
