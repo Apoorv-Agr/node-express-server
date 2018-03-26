@@ -1,20 +1,24 @@
 This is a simple node and npm server set up
 
 Installation Guide:
-  Install node ---  got to official website for Installation Guide
-  Install npm -- got to official website for Installation Guide
-  I referred -- https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment
+  Install node --->  got to official website for Installation
+  Guide                                                                                                                                  
+  Install npm ---> got to official website for Installation Guide
 
-npm init -- for creating package.json file
+
+
+  I referred ---> https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment
+
+  npm init ---> for creating package.json file
 
 Dependencies :
-  express -- npm install express --save
-  body-parser -- npm install body-parser --save
+  express ---> npm install express --save
+  body-parser ---> npm install body-parser --save
 
-body-parser -- is used for parsing data to JSON object
+  body-parser ---> is used for parsing data to JSON object
 
-install one more package globally nodemon
+  install one more package globally nodemon
 
-npm install -g nodemon
+  npm install -g nodemon
 
-run command nodemon 'filename.js'
+  run command nodemon 'filename.js'
